@@ -9,6 +9,7 @@ Text Similarity Analysis of Tweets related to the University of Chicago
 
 # Steps
 
+    0. Scraped twitter data that comes in deeply nested JSON format. Removed noisy tweets. 
     1. Identified tweets related to UChicago and 3-4 other universitiesand discard irrelevant tweets
 
     2. EDA to identify which variables you can use to profile the Twitterer. A lot of variables were poorly populated and hence discarded
