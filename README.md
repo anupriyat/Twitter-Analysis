@@ -27,3 +27,4 @@ Text Similarity Analysis of Tweets related to the University of Chicago
         to measure uniqueness / similarity.
     10. Visualized message duplication for each university
 
+Data size is close to 60 Million records. USed Big data technology - Spark and Scala for analysis. 
