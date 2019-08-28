@@ -18,6 +18,11 @@ Text Similarity Analysis of Tweets related to the University of Chicago
     6. Provided insights on what distinguishes University of Chicago Twitterers vs Twitterers who tweet about other universities. Visualized the trends
     7. Analysis on the timelines of these tweets, significant peaks and valleys
     8. Observed data collection gaps
-    9. Identified the uniqueness of the messages for each of these universities. Used techniques like ** Jaccard similarity / Cosine Similarity / Simhash / Minhash to measure uniqueness / similarity **
+    9. Identified the uniqueness of the messages for each of these universities. Used techniques like 
+                    Jaccard similarity
+                    Cosine Similarity
+                    Simhash
+                    Minhash 
+        to measure uniqueness / similarity.
     10. Visualized message duplication for each university
 
