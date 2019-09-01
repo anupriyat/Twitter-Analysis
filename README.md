@@ -28,3 +28,14 @@ Text Similarity Analysis of Tweets related to the University of Chicago
     10. Visualized message duplication for each university
 
 Data size is close to 60 Million records. Used Big data technology - Spark and Scala for analysis. 
+
+# EDA
+
+### Trend Analysis - Peaks and Fall
+
+![Alt text](TrendAnalysisPeak&Fall.png?raw=true "TrendAnalysisPeak&Fall.png")
+
+### Trend Analysis - Location
+
+![Alt text](TrendAnalysisLocation.png?raw=true "TrendAnalysisLocation.png")
+
